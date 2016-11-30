@@ -5,3 +5,5 @@ I am from Sheffield England
 I moved to Wellington NZ in 2007
 
 I love playing basketball
+
+I teach computer science at Wellington College
